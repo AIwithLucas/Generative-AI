@@ -1,0 +1,10 @@
+Conditional GANs
+    - additional Conditional Info fed into Discriminator and Generator
+        -eg info: Labels information fed to generator 
+
+Application of cGANS:
+    - text to image
+    - image to image (sketch -> detailed image)
+    - enhance resolution (low res -> high res)
+    - image inpainint
+    - data augmentation
